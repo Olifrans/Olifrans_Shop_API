@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlifransShop.Domain", "OlifransShop.Domain\OlifransShop.Domain.csproj", "{32D42C6D-ACE8-47C4-B884-DC782E27BC63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlifransShop.Api", "OlifransShop.Api\OlifransShop.Api.csproj", "{9DDB75A4-7B73-45E3-AAFF-D22E8B735B6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32D42C6D-ACE8-47C4-B884-DC782E27BC63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D42C6D-ACE8-47C4-B884-DC782E27BC63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D42C6D-ACE8-47C4-B884-DC782E27BC63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D42C6D-ACE8-47C4-B884-DC782E27BC63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DDB75A4-7B73-45E3-AAFF-D22E8B735B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDB75A4-7B73-45E3-AAFF-D22E8B735B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDB75A4-7B73-45E3-AAFF-D22E8B735B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDB75A4-7B73-45E3-AAFF-D22E8B735B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6E0FAD6-2F6F-4B4D-BFA6-29ED2ECCC080}
+	EndGlobalSection
+EndGlobal
